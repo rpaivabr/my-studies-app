@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'my-studies-app';
+  title = 'my-studies-app-to-zuando-o-teste';
 }
