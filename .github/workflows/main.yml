@@ -2,11 +2,9 @@ name: CI
 
 on:
   pull_request:
-    types:
-      - opened
+    types: [opened, reopened]
     branches:
       - 'main'
-      - 'develop'
 
 jobs:
   build:
