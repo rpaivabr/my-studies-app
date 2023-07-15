@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Angular"
+    },
+    {
+      "id": 2,
+      "name": "Nest"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "url": "https://www.youtube.com/watch?v=tPOMG0D57S0"
+    },
+    {
+      "id": 2,
+      "categoryId": 2,
+      "url": "https://www.youtube.com/watch?v=hd2B7XQAFls"
+    }
+  ]
+}
